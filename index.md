@@ -16,4 +16,4 @@ Prior to that I acquired PhD degree in applied sciences at University of Liege i
 My PhD thesis focuses on the uncertainty quantification of adhesion behaviors at micro-scale of micro-nano devices. 
 
 # More information
-- Detail CV is [here](cv/cv_en2021.md), or [pdf-format](cv/cv_end2021.pdf)
+- Detail CV is [here](cv/cv_en2021.md) or this [pdf-file](cv/cv_en2021.pdf)
