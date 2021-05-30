@@ -146,12 +146,10 @@ national intake examination, Vietnam, 2005
 
 Languages
 =========
-  - English      fluent
-  - German       good
-  - French       good
-  - Vietnamese   mother tongue
-  ----------------------------------------- ---------------
-
+  - English:     fluent
+  - German:       good
+  - French:    good
+  - Vietnamese:   mother tongue
 
 Others
 =====
