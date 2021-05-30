@@ -9,51 +9,154 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Education and Qualification
+=====================
+- 09.2017, **PhD. in engineering sciences**\
+Department of Aerospace and Mechanical Engineering, Faculty of Applied
+Sciences, University of Liège, Belgium.*\
+Thesis: *Stochastic multi-scale modelling of adhesion contact failure in
+MEMS*
+
+- 07.2013, **Master in mechanical
+engineering**\
+University of Liège, Belgium, grade: **very distinction** (top 8 %)
+
+- 06.2010, **B.Eng in mechatronics**\
+University of Technology, HCMC Vietnam National University, Vietnam,
+grade: **very good** (top 10 %)
+
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+=============
+-  5.2021 - present: **Postdoctoral
+researcher**\
+Chair of Mathematics for Uncertainty Quantification,
+(MATHUQ), Department of Mathematics, RWTH Aachen University, [link](https://www.uq.rwth-aachen.de/go/id/eibnp/?lidx=1)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- 10.2017 - 3.2020: **Postdoctoral
+researcher**\
+Institute of Scientific Computing (WiRe), Faculty of
+Information, Carl-Friedrich-Gauß-Fakultät, Technische Universität
+Braunschweig, Germany, [link](https://www.tu-braunschweig.de/wire).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 09.2013 - 09.2017: **Research engineer -
+Doctoral candidate**\
+Department of Aerospace and Mechanical Engineering, Faculty of Applied
+Sciences, University of Liège, Belgium, [link](http://www.ltas-cm3.ulg.ac.be)
+
+- 08.2010 - 08.2011: **Research assistant**\
+University of Technology, Vietnam National University HCMC, Vietnam, [link](https://vnuhcm.edu.vn/)
+ 
+ 
+ Grants
+ =====
+- Project: "*Efficient functional
+representation of the structural mechanical response dependent on
+polymorphic uncertain parameters and uncertainties*" in the framework of
+"DFG-SPP 1886, Polymorphic uncertainty modelling for the numerical
+design of structures" (2017 -2020)
+
+- FNRS-FRIA PhD Grant "*Stochastic
+multi-scale modeling MEMS stiction*" (2013-2017)
+
+- "3SMVIB: *3-Scale modelling for
+robust-design of vibrating micro sensors project*", in the framework of
+MNT.ERA-NET (FP7) program (2013-2016)
+
+
+Management and Communication skills
+==============================
+
+- Collaboration with other research groups at
+different universities and institutions
+
+- Organization of research workshops
+
+- Presentation at international conferences (
+\> 15)
+
+- Preparation of new lecture materials
+
+- Providing theorical courses and guiding
+practical sessions for master classes
+
+- Supervision of research assistants
+
+
+Programming skills
+===============
+
+-  PDE solvers: [Fenics, FreeFEM++,
+openFoam]{.nodecor}
+
+- Programming languages: [Python, C++,
+Matlab]{.nodecor}
+
+- Packages for scientific computing: [Numpy,
+Scipy, Matplotlib]{.nodecor}
+
+- Machine learning tools: [Tensorflow, Keras,
+Scikit-learn, Panda]{.nodecor}
+
+- Software development tools: [Git,
+SVN]{.nodecor}
+
+- Others: Latex, Jupyter notebook, Linux OS,
+Bash script, High-performance computing
+
+
+Teaching experience
+================
+
+$\mathpalette\bigcdot@{1.0}$"[Uncertainty Quantification, Parametric
+Problems, and Model Reduction]{.nodecor}"(2019
+[link](https://www.tu-braunschweig.de/wire/lehre/ss19/spde))
+
+$\mathpalette\bigcdot@{1.0}$"[Practical Course in [Simulation of Fluid
+Dynamics]{.nodecor}]{.nodecor}" (2017, 2018
+[link](https://www.tu-braunschweig.de/wire/lehre/archiv/ss18/fluiddyn))
+
+$\mathpalette\bigcdot@{1.0}$"[Seminar: [Deep Learning and Mathematics
+behinds it]{.nodecor}]{.nodecor}" (2018, 2019
+[link](https://www.tu-braunschweig.de/wire/lehre/ss19/seminar))
+
+$\mathpalette\bigcdot@{1.0}$"[Elements of [Stochastic
+processes]{.nodecor}]{.nodecor}" (2013
+[link](https://orbi.uliege.be/handle/2268/164223))
+
+
+Awards
+=====
+
+------------------------------------------------------------------------
+
+$\mathpalette\bigcdot@{1.0}$ *FRIA fellowship* (Belgian national fund
+for researches in industry and agriculture - F.R.S.-FNRS) for PhD
+research, 2013 - 2017 (€[110.000]{.nodecor})
+
+$\mathpalette\bigcdot@{1.0}$ *Full scholarship* for Master program at
+University of Liège, Belgium 2011-2013. (€[24.600]{.nodecor})
+
+$\mathpalette\bigcdot@{1.0}$ *Award for top-scorer* in the university
+national intake examination, Vietnam, 2005
+
+$~$\
+**Languages**
+
+------------------------------------------------------------------------
+
+  ----------------------------------------- ---------------
+  $\mathpalette\bigcdot@{1.0}$ English      fluent
+  $\mathpalette\bigcdot@{1.0}$ German       good
+  $\mathpalette\bigcdot@{1.0}$ French       good
+  $\mathpalette\bigcdot@{1.0}$ Vietnamese   mother tongue
+  ----------------------------------------- ---------------
+
+$~$\
+**Others**
+
+------------------------------------------------------------------------
+
+$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
+
+$\mathpalette\bigcdot@{1.0}$ Medium-distance runner (10 - 21.0975 km)
