@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  # a clean page in "portofilio.html"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
