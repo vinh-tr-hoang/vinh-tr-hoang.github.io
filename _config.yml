@@ -84,7 +84,7 @@ author:
   avatar           : "photo_2019comp.png"
   bio              : "Researcher in Applied mathematics and Computational engineering"
   location         : "Germany"
-  employer         : "Chair of Mathematics for uncertainty quantification, Deparment of Mathematics, RWTH-Aachen University"
+  employer         : "RWTH-Aachen University"#"Chair of Mathematics for uncertainty quantification, Deparment of Mathematics, RWTH-Aachen University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=_308zMUAAAAJ&hl=en"
   email            :
