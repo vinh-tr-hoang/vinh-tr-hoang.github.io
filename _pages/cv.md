@@ -19,12 +19,14 @@ MEMS*
 
 - 07.2013, **Master in mechanical
 engineering**\
-University of Liège, Belgium, grade: **very distinction** (top 8 %)
+University of Liège, Belgium
+<!---, grade: **very distinction** (top 8 %) 
+--->
 
 - 06.2010, **B.Eng in mechatronics**\
-University of Technology, HCMC Vietnam National University, Vietnam,
-grade: **very good** (top 10 %)
-
+University of Technology, HCMC Vietnam National University, Vietnam
+<!---,, grade: **very good** (top 10 %)
+--->
 
 Work experience
 =============
@@ -48,8 +50,8 @@ Sciences, University of Liège, Belgium, [link](http://www.ltas-cm3.ulg.ac.be)
 University of Technology, Vietnam National University HCMC, Vietnam, [link](https://vnuhcm.edu.vn/)
  
  
- Grants
- ======
+Grants
+======
  
 - Project: "*Efficient functional
 representation of the structural mechanical response dependent on
@@ -77,7 +79,7 @@ different universities and institutions
 
 - Preparation of new lecture materials
 
-- Providing theorical courses and guiding
+- Providing theoretical courses and guiding
 practical sessions for master classes
 
 - Supervision of research assistants
@@ -110,30 +112,33 @@ Teaching experience
 
 -  *Uncertainty Quantification, Parametric
 Problems, and Model Reduction*(2019)
+<!---
 [link](https://www.tu-braunschweig.de/wire/lehre/ss19/spde)
-
+--->
 -  *Practical Course in Simulation of Fluid
 Dynamics* (2017, 2018)
+<!---
 [link](https://www.tu-braunschweig.de/wire/lehre/archiv/ss18/fluiddyn)
-
-$- *Seminar: Deep Learning and Mathematics
+--->
+- *Seminar: Deep Learning and Mathematics
 behinds it* (2018, 2019)
+<!---
 [link](https://www.tu-braunschweig.de/wire/lehre/ss19/seminar)
-
+--->
 - *Elements of Stochastic
 processes* (2013)
 [link](https://orbi.uliege.be/handle/2268/164223))
 
 
 Awards
-=====
+======
 
 - *FRIA fellowship* (Belgian national fund
 for researches in industry and agriculture - F.R.S.-FNRS) for PhD
-research, 2013 - 2017 (€[110.000]{.nodecor})
+research, 2013 - 2017 (€110.000)
 
 - *Full scholarship* for Master program at
-University of Liège, Belgium 2011-2013. (€[24.600]{.nodecor})
+University of Liège, Belgium 2011-2013. (€24.600)
 
 - *Award for top-scorer* in the university
 national intake examination, Vietnam, 2005
@@ -150,6 +155,8 @@ Languages
 
 Others
 =====
-#$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
+<!---
+$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
+--->
 
 - Medium-distance runner (10 - 21.0975 km)
