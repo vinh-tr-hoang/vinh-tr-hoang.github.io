@@ -49,7 +49,8 @@ University of Technology, Vietnam National University HCMC, Vietnam, [link](http
  
  
  Grants
- =====
+ ======
+ 
 - Project: "*Efficient functional
 representation of the structural mechanical response dependent on
 polymorphic uncertain parameters and uncertainties*" in the framework of
@@ -72,8 +73,7 @@ different universities and institutions
 
 - Organization of research workshops
 
-- Presentation at international conferences (
-\> 15)
+- Presentation at international conferences (\> 15)
 
 - Preparation of new lecture materials
 
@@ -86,77 +86,70 @@ practical sessions for master classes
 Programming skills
 ===============
 
--  PDE solvers: [Fenics, FreeFEM++,
-openFoam]{.nodecor}
+- Programming languages: *Python*, *C++*,
+*Matlab*
 
-- Programming languages: [Python, C++,
-Matlab]{.nodecor}
+- Machine learning tools: *Tensorflow*, *Keras*,
+*Scikit-learn*, *Panda*
 
-- Packages for scientific computing: [Numpy,
-Scipy, Matplotlib]{.nodecor}
+- Packages for scientific computing: *Numpy*,
+*Scipy*, *Matplotlib*
 
-- Machine learning tools: [Tensorflow, Keras,
-Scikit-learn, Panda]{.nodecor}
+- Software development tools: *Git*,
+*SVN*, and *auto-documentation tools*
 
-- Software development tools: [Git,
-SVN]{.nodecor}
+-  PDE solvers: *Fenics*, *FreeFEM++*,
+*openFoam*
 
-- Others: Latex, Jupyter notebook, Linux OS,
-Bash script, High-performance computing
+- Others: *Latex*, *Jupyter notebook*, *Linux OS*,
+*Bash script*, *High-performance computing*
 
 
 Teaching experience
 ================
 
-$\mathpalette\bigcdot@{1.0}$"[Uncertainty Quantification, Parametric
-Problems, and Model Reduction]{.nodecor}"(2019
-[link](https://www.tu-braunschweig.de/wire/lehre/ss19/spde))
+-  *Uncertainty Quantification, Parametric
+Problems, and Model Reduction*(2019)
+[link](https://www.tu-braunschweig.de/wire/lehre/ss19/spde)
 
-$\mathpalette\bigcdot@{1.0}$"[Practical Course in [Simulation of Fluid
-Dynamics]{.nodecor}]{.nodecor}" (2017, 2018
-[link](https://www.tu-braunschweig.de/wire/lehre/archiv/ss18/fluiddyn))
+-  *Practical Course in Simulation of Fluid
+Dynamics* (2017, 2018)
+[link](https://www.tu-braunschweig.de/wire/lehre/archiv/ss18/fluiddyn)
 
-$\mathpalette\bigcdot@{1.0}$"[Seminar: [Deep Learning and Mathematics
-behinds it]{.nodecor}]{.nodecor}" (2018, 2019
-[link](https://www.tu-braunschweig.de/wire/lehre/ss19/seminar))
+$- *Seminar: Deep Learning and Mathematics
+behinds it* (2018, 2019)
+[link](https://www.tu-braunschweig.de/wire/lehre/ss19/seminar)
 
-$\mathpalette\bigcdot@{1.0}$"[Elements of [Stochastic
-processes]{.nodecor}]{.nodecor}" (2013
+- *Elements of Stochastic
+processes* (2013)
 [link](https://orbi.uliege.be/handle/2268/164223))
 
 
 Awards
 =====
 
-------------------------------------------------------------------------
-
-$\mathpalette\bigcdot@{1.0}$ *FRIA fellowship* (Belgian national fund
+- *FRIA fellowship* (Belgian national fund
 for researches in industry and agriculture - F.R.S.-FNRS) for PhD
 research, 2013 - 2017 (€[110.000]{.nodecor})
 
-$\mathpalette\bigcdot@{1.0}$ *Full scholarship* for Master program at
+- *Full scholarship* for Master program at
 University of Liège, Belgium 2011-2013. (€[24.600]{.nodecor})
 
-$\mathpalette\bigcdot@{1.0}$ *Award for top-scorer* in the university
+- *Award for top-scorer* in the university
 national intake examination, Vietnam, 2005
 
-$~$\
-**Languages**
 
-------------------------------------------------------------------------
-
-  ----------------------------------------- ---------------
-  $\mathpalette\bigcdot@{1.0}$ English      fluent
-  $\mathpalette\bigcdot@{1.0}$ German       good
-  $\mathpalette\bigcdot@{1.0}$ French       good
-  $\mathpalette\bigcdot@{1.0}$ Vietnamese   mother tongue
+Languages
+=========
+  - English      fluent
+  - German       good
+  - French       good
+  - Vietnamese   mother tongue
   ----------------------------------------- ---------------
 
-$~$\
-**Others**
 
-------------------------------------------------------------------------
+Others
+=====
+#$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
 
-$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
-
-$\mathpalette\bigcdot@{1.0}$ Medium-distance runner (10 - 21.0975 km)
+- Medium-distance runner (10 - 21.0975 km)
