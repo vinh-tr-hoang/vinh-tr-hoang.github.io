@@ -49,7 +49,7 @@ Sciences, University of Liège, Belgium, [link](http://www.ltas-cm3.ulg.ac.be)
 - 08.2010 - 08.2011: **Research assistant**\
 University of Technology, Vietnam National University HCMC, Vietnam, [link](https://vnuhcm.edu.vn/)
  
-[/ 
+<!---
 Grants
 ======
  
@@ -84,7 +84,8 @@ practical sessions for master classes
 
 - Supervision of research assistants
 
-/]
+--->
+
 Programming skills
 ===============
 
@@ -106,30 +107,27 @@ Programming skills
 - Others: *Latex*, *Jupyter notebook*, *Linux OS*,
 *Bash script*, *High-performance computing*
 
-[/
+<!---
 Teaching experience
 ================
-
 -  *Uncertainty Quantification, Parametric
 Problems, and Model Reduction*(2019)
-<!---
+
 [link](https://www.tu-braunschweig.de/wire/lehre/ss19/spde)
---->
 -  *Practical Course in Simulation of Fluid
 Dynamics* (2017, 2018)
-<!---
+
 [link](https://www.tu-braunschweig.de/wire/lehre/archiv/ss18/fluiddyn)
---->
 - *Seminar: Deep Learning and Mathematics
 behinds it* (2018, 2019)
-<!---
 [link](https://www.tu-braunschweig.de/wire/lehre/ss19/seminar)
---->
+
 - *Elements of Stochastic
 processes* (2013)
 [link](https://orbi.uliege.be/handle/2268/164223))
 
-/]
+
+
 Awards
 ======
 
@@ -142,7 +140,7 @@ University of Liège, Belgium 2011-2013. (€24.600)
 
 - *Award for top-scorer* in the university
 national intake examination, Vietnam, 2005
-
+--->
 
 Languages
 =========
@@ -150,11 +148,12 @@ Languages
   - German:       good
   - French:    good
   - Vietnamese:   mother tongue
-
+<!---
 Others
 =====
-<!---
+
 $\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
---->
+
 
 - Medium-distance runner (10 - 21.0975 km)
+--->
