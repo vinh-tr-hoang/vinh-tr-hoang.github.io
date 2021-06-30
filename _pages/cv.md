@@ -49,7 +49,7 @@ Sciences, University of Liège, Belgium, [link](http://www.ltas-cm3.ulg.ac.be)
 - 08.2010 - 08.2011: **Research assistant**\
 University of Technology, Vietnam National University HCMC, Vietnam, [link](https://vnuhcm.edu.vn/)
  
- 
+[/ 
 Grants
 ======
  
@@ -84,7 +84,7 @@ practical sessions for master classes
 
 - Supervision of research assistants
 
-
+/]
 Programming skills
 ===============
 
@@ -106,7 +106,7 @@ Programming skills
 - Others: *Latex*, *Jupyter notebook*, *Linux OS*,
 *Bash script*, *High-performance computing*
 
-
+[/
 Teaching experience
 ================
 
@@ -129,7 +129,7 @@ behinds it* (2018, 2019)
 processes* (2013)
 [link](https://orbi.uliege.be/handle/2268/164223))
 
-
+/]
 Awards
 ======
 
