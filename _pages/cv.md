@@ -148,12 +148,12 @@ Languages
   - German:       good
   - French:    good
   - Vietnamese:   mother tongue
+
 <!---
 Others
 =====
+--->
 
-$\mathpalette\bigcdot@{1.0}$ Driving licence (category B)
-
-
+<!--- $\mathpalette\bigcdot@{1.0}$ Driving licence (category B) 
 - Medium-distance runner (10 - 21.0975 km)
 --->
