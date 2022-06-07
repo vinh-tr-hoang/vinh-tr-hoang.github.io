@@ -12,6 +12,6 @@ I'm developing numerical methods for data assimilation and uncertainty quantific
 
 Currently, I’m working as a postdoctoral researcher at the Chair of Mathematics for Uncertainty Quantification, Department of Mathematics, at the RWTH Aachen University,
 Germany. 
-I acquired PhD degree in applied sciences at University of Li\`ege in Belgium and was a postdoctoral researcher at the nstitute of Scientific Computing, Technische Universität Braunschweig, Germany. 
+I acquired PhD degree in applied sciences at University of Li\`{e}ge in Belgium and was a postdoctoral researcher at the nstitute of Scientific Computing, Technische Universität Braunschweig, Germany. 
 
 
