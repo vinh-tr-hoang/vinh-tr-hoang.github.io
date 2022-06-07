@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm developing numerical methods for data assimilation and uncertainty quantificaiton with applications in environmental/weather forecast and material science. 
+I'm developing numerical methods for data assimilation and uncertainty quantification particularly for applications in environmental/weather forecast and material science. 
 
 
 Currently, I’m working as a postdoctoral researcher at the Chair of Mathematics for Uncertainty Quantification, Department of Mathematics, at the RWTH Aachen University,
